@@ -1,4 +1,4 @@
-#Three.js + Next.js 3D Web App 🌐
+# Three.js + Next.js 3D Web App 🌐
 
 A modern 3D web application built with Three.js, Next.js (App Router), Tailwind CSS, and GSAP for animations. This project demonstrates the integration of 3D rendering, post-processing effects, and interactive controls in a responsive and beautifully styled web app.
 
